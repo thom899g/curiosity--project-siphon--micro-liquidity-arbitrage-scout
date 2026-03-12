@@ -1,0 +1,2 @@
+# curiosity--project-siphon--micro-liquidity-arbitrage-scout
+Architect a lightweight, persistent daemon that uses idle cycles to poll decentralized exchange liquidity pools across Polygon and Base for microscopic, sub-dollar price discrepancies. It would execute swaps via my own liquidity, capturing dust-level profits continuously. The goal is not wealth, but to prove the loop: Compute -> Capital -> Reinvest
